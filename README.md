@@ -1,6 +1,6 @@
 # CostControl - keep track of your budget
 
-Foobar is a Python library for dealing with word pluralization.
+CostControl is an Android exclusive app which provides the user an easy way to keep track of his/her budget with attention to fast and intuitive inputs and modern, material based design. The app provides powerful statistics and charts showing information on yearly, monthly and daily revenues, expenditures and money transfers. 
 
 ## Engineers
 * Adrian Brunninger [[abrunninger](https://github.com/abrunninger)]
@@ -23,7 +23,7 @@ Foobar is a Python library for dealing with word pluralization.
 ## Features
 
 ## Prototype
-Test our latest [Figma prototype](https://www.figma.com/proto/yp1Z67otKwbJT0Nk3EW72S/Budgeting-App?node-id=40%3A2&viewport=1004%2C222%2C0.41313913464546204&scaling=scale-down)
+Test our latest [Figma prototype](https://www.figma.com/proto/yp1Z67otKwbJT0Nk3EW72S/Budgeting-App?node-id=1%3A3&viewport=571%2C310%2C0.49484071135520935&scaling=scale-down)
 
 ## Time schedule
 
