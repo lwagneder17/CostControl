@@ -23,7 +23,7 @@ Foobar is a Python library for dealing with word pluralization.
 ## Features
 
 ## Prototype
-Test our latest [Figma prototype](https://www.figma.com/proto/yp1Z67otKwbJT0Nk3EW72S/Budgeting-App?node-id=1%3A3&viewport=1004%2C222%2C0.41313913464546204&scaling=scale-down)
+Test our latest [Figma prototype](https://www.figma.com/proto/yp1Z67otKwbJT0Nk3EW72S/Budgeting-App?node-id=40%3A2&viewport=1004%2C222%2C0.41313913464546204&scaling=scale-down)
 
 ## Time schedule
 
